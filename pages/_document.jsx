@@ -8,13 +8,13 @@ export default function Document() {
       lang="en"
     >
       <Head>
-        <meta name="title" content="Pravin ✦ senior developer, tech lead" />
-        <meta name="description" content="Full stack Developer // Freelance" />
+        <meta name="title" content="Ravi Kant ✦ senior software engineer" />
+        <meta name="description" content="iOS & flutter Developer // Freelance" />
 
         {/* <!-- Open Graph / Facebook --> */}
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://pravinnayak.me/" />
-        <meta property="og:title" content="Pravin ✦ senior developer, tech lead" />
+        <meta property="og:url" content="https://ravikanttiwari.com/" />
+        <meta property="og:title" content="Ravi Kant ✦ senior software engineer" />
         <meta
           property="og:description"
           content="Full stack Developer // Freelance"
@@ -28,15 +28,15 @@ export default function Document() {
         <meta property="twitter:card" content="summary_large_image" />
         <meta
           property="twitter:url"
-          content="https://pravinnayak.me/"
+          content="https://ravikanttiwari.com/"
         />
         <meta
           property="twitter:title"
-          content="Pravin ✦ senior developer, tech lead"
+          content="Ravi Kant ✦ senior software engineer"
         />
         <meta
           property="twitter:description"
-          content="Full stack Developer // Freelance"
+          content="iOS & flutter Developer // Freelance"
         />
         <meta
           property="twitter:image"
@@ -44,11 +44,11 @@ export default function Document() {
         />
 
         {/* whatsapp */}
-        <meta property="og:site_name" content="Pravin ✦ senior developer, tech lead" />
-        <meta property="og:title" content="Pravin ✦ senior developer, tech lead" />
+        <meta property="og:site_name" content="Ravi Kant ✦ senior software engineer" />
+        <meta property="og:title" content="Ravi Kant ✦ senior software engineer" />
         <meta
           property="og:description"
-          content="Full stack Developer // Freelance"
+          content="Senior Software Engineer // Freelance"
         />
         <meta
           property="og:image"
@@ -58,12 +58,12 @@ export default function Document() {
         <meta property="og:type" content="website" />
 
         {/* canonical links */}
-        <link rel="canonical" href="https://pravinnayak.me/" />
+        <link rel="canonical" href="https://ravikanttiwari.com/" />
         <link
           rel="search"
           href="/opensearch.xml"
           type="application/opensearchdescription+xml"
-          title="Pravin ✦ senior developer, tech lead"
+          title="Ravi Kant ✦ senior software engineer"
         />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link

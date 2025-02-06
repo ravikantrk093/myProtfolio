@@ -4,37 +4,37 @@ const TimeLine = () => {
   const data = [
     {
       id: 0,
-      title: "Technical Lead",
-      duration: "Nov 2022",
+      title: "SDE - 2 (iOS and Flutter Developer)",
+      duration: "July 2023",
       org: "mirrAR",
-      skills: ["System design", "Performance tuning", "Software architectur", "Project Management", "AWS", "Saas"],
+      skills: [],
       class:
         "mt-1 bg-red-100 text-red-800 text-sm font-medium me-2 px-2.5 py-0.5 rounded dark:bg-red-900 dark:text-red-300",
     },
     {
       id: 1,
-      title: "Software Developer III",
-      duration: "Aug 2020 - Oct 2022",
-      org: "mirrAR",
-      skills: ["JavaScript", "React.js","Redux.js", "Node.js", "Express.js", "MongoDB", "PostgreSQL", "TypeScript","Docker", "Graphql"],
+      title: "Sr. iOS Developer",
+      duration: "May 2022 - June 2023",
+      org: "Touchwood",
+      skills: [],
       class:
         "mt-1 bg-green-100 text-green-800 text-sm font-medium me-2 px-2.5 py-0.5 rounded dark:bg-green-900 dark:text-green-300",
     },
     {
       id: 2,
-      title: "Shopify App Developer",
-      duration: "Aug 2021-present",
-      org: "Freelance",
-      skills: ["Shopify","App extension","Problem solving"],
+      title: "iOS Developer",
+      duration: "Feb 2021 - May 2022",
+      org: "EITBIZ",
+      skills: [],
       class:
         "mt-1 bg-pink-100 text-pink-800 text-sm font-medium me-2 px-2.5 py-0.5 rounded dark:bg-pink-900 dark:text-pink-300",
     },
     {
       id: 3,
-      title: "System Engineer",
-      duration: "July 2018 - Aug 2020",
-      org: "Infosys",
-      skills: ["MEAN", "Selenium", "JWT", "Passport", "D3 graph",],
+      title: "iOS Developer",
+      duration: "Oct 2018 - Jan 2022",
+      org: "ARKA Softwares",
+      skills: [],
       class:
         "mt-1 bg-yellow-100 text-yellow-800 text-sm font-medium me-2 px-2.5 py-0.5 rounded dark:bg-yellow-900 dark:text-yellow-300",
     },

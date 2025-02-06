@@ -28,7 +28,7 @@ export default function About() {
   return (
     <div className="px-10 sm:px-20 md:px-32 lg:mb-12 lg:px-60 mx-auto max-w-[75rem]">
       <Head>
-        <title>about ✦ pravin</title>
+        <title>about ✦ ravikant</title>
         <link rel="icon" href="/Avatar-white.svg" />
       </Head>
       <main className="  max-w-screen ">
@@ -77,7 +77,7 @@ export default function About() {
           <CategoryCard />
           <div className=" text-[0.92rem] text-base mx-12 font-light dark:text-white text-gray-900">
             <p className="mt-6 mb-12 font-normal">
-            {"I'm a passionate developer 💻 with a creative flair 🎨, combining my love for coding with my talents as a singer 🎤. When I'm not crafting solutions or creating music 🎶, you'll find me diving into captivating anime stories 📺, binge-watching the latest K-dramas 🍿, or hitting the open road on my bike 🏍️. A true music enthusiast at heart ❤️, I embrace every melody that inspires me and fuels my creativity. Welcome to my world, where technology meets art, entertainment, and adventure! 🌟 "}
+            {"I'm a passionate iOS developer 📱 who loves bringing ideas to life through clean, high-performance code. Beyond coding, I have a creative side that keeps me inspired—whether it's exploring the latest AR/AI innovations, riding my bike 🏍️, or vibing to great music 🎶. When I'm not optimizing apps, you'll find me chasing new adventures and embracing challenges that push my limits. Technology, creativity, and exploration fuel my journey, and I’m always ready for the next exciting challenge! 🚀✨"}
             </p>
 
             <p className="text-gray-400 select-none font-semibold mb-1 dark:text-white/30 ">
@@ -112,7 +112,7 @@ export default function About() {
               or you can DM me on{" "}
               <span className="text-orange-500 font-bold">Instagram</span>{" "}
               <a
-                href="https://www.instagram.com/ohheyitspravin"
+                href="https://www.instagram.com/tiwari_ji097/"
                 target="blank"
                 rel="noopener noreferrer"
                 className=" font-semibold underline underline-offset-4 decoration-2 decoration-purple-400 dark:hover:text-purple-400 hover:text-purple-700 cursor-pointer select "

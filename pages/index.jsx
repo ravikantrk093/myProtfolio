@@ -63,7 +63,7 @@ export default function Home() {
                   target="_blank"
                   className="text-[#717171bb] flex items-center"
                 >
-                  <p>@pravinnayak</p>
+                  <p>@ravikant</p>
                   <BsArrowUpRight className="stroke-1 h-3" />
                 </Link>
               </h3>
@@ -71,8 +71,7 @@ export default function Home() {
           </div>
           <div className="mt-12 text-base md:text-xl lg:text-xl xl:text-xl 2xl:text-xl">
             <p className="sm:leading-6 md:leading-6 lg:leading-8">
-            I am a results-driven Technical Lead with a proven ability to design and implement scalable, high-performance software solutions that meet modern business needs. With over six years of experience in software architecture, API development, and system optimization, I excel in creating innovative, user-focused applications.
-            My technical expertise spans cutting-edge tools and frameworks, including Node.js, React, AWS, and Docker, ensuring seamless deployment and high availability. I specialize in streamlining workflows, enhancing system efficiency, and driving measurable ROI through data-driven strategies. Dedicated to staying ahead of industry trends, I am committed to delivering impactful technology solutions that empower businesses to scale and succeed.
+              I am a results-driven iOS Developer with over six years of experience in designing and building high-performance, scalable mobile applications. With a deep understanding of Swift, SwiftUI, and Flutter, I specialize in crafting seamless user experiences backed by optimized architecture and efficient system design. My expertise spans across AR/AI integration, SDK development, and performance optimization, ensuring apps run smoothly at scale. Having worked on B2C and enterprise-level solutions, I am committed to leveraging the latest technologies to create innovative and impactful mobile experiences that drive business success.
             </p>
           </div>
         </div>
