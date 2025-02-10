@@ -5,7 +5,7 @@ const TimeLine = () => {
     {
       id: 0,
       title: "SDE - 2 (iOS and Flutter Developer)",
-      duration: "July 2023",
+      duration: "July 2023 - Dec 2024",
       org: "mirrAR",
       skills: [],
       class:

@@ -118,7 +118,7 @@ export default function About() {
                 className=" font-semibold underline underline-offset-4 decoration-2 decoration-purple-400 dark:hover:text-purple-400 hover:text-purple-700 cursor-pointer select "
               >
                 {" "}
-                @ohheyitspravin{" "}
+                @ravikant{" "}
               </a>{" "}
             </p>
           </div>

@@ -7,57 +7,44 @@ import eyewearWebAR from "@/public/work/eyewearWebAR.webp";
 import skinCareGif from "@/public/work/skincare.webp";
 import customizationStudio from "@/public/work/customizationStudio.webp";
 import radBeauty from "@/public/work/radBeauty.webp";
+import makemeup from "@/public/work/makemeup.jpeg";
+import kikii from "@/public/work/kikii.jpeg";
+import kinexa from "@/public/work/kinexa.jpeg";
 
 const ProjectCard = () => {
   const data = [
     {
       id: 1,
-      image: webar,
-      title: "webAR",
-      description: "Augumented Try-on",
-      link: "https://cdn.mirrar.com/mirrar-jewellery-webar-new/index.html?brand_id=ffae6dac-89e4-41df-8973-e58a60efc9c4&emptyCache=1&sku=503120DCIADA09",
+      image: radBeauty,
+      title: "Rad Beauty",
+      description: "Find dups of your fav brands, Personalized recommendation",
+      link: "https://apps.apple.com/in/app/rad-beauty/id6469603525",
       target: "_blank",
     },
     {
       id: 2,
-      image: beautyWebar,
-      title: "Augumented Beauty",
-      description: "Apply make up at home, choose the right shade for yourself",
-      link: "https://products.mirrar.com/products/beauty?label=Lipstick",
+      image: makemeup,
+      title: "MakeMeUp",
+      description: "Beauty Shopping",
+      link: "https://apps.apple.com/in/app/makemeup-beauty-shopping/id1630947116",
       target: "_blank",
     },
     {
       id: 3,
-      image: eyewearWebAR,
-      title: "Eyewear 3D try-on",
-      description: "Gotta Catch'em All. Explore your Pokemon",
-      link: "https://cdn.mirrar.com/general/mirrar.html?sku=RAYBAN_ANDYFull_Rim_SquareSunglasses&brand_id=ec80a062-64f3-467b-b02a-1a894204b9e4&emptyCache=0",
+      image: kikii,
+      title: "Kikii",
+      description: "Kikii Models allows you to conveniently hire professional models for your event and business needs",
+      link: "https://apps.apple.com/au/app/kikii/id1455955081",
       target: "_blank",
     },
     {
       id: 4,
-      image: skinCareGif,
-      title: "Skin Analysis",
-      description: "Get a detailed report of your skin",
-      link: "https://products.mirrar.com/products/skincare",
+      image: kinexa,
+      title: "Kinexa Driver",
+      description: "Kinexa, a leading provider of Electronic Logging Devices (ELDs) and fleet management solutions, offers a user-friendly platform designed to streamline fleet operations and ensure compliance with FMCSA regulations.",
+      link: "https://apps.apple.com/us/app/kinexa-driver/id6739873182",
       target: "_blank",
-    },
-    {
-      id: 5,
-      image: radBeauty,
-      title: "Rad Beauty",
-      description: "Find dups of your fav brands, Personalized recommendation",
-      link: "https://www.rad.beauty/",
-      target: "_blank",
-    },
-    {
-      id: 6,
-      image: customizationStudio,
-      title: "Customization Studio",
-      description: "Platform to showcase variants of 3D items",
-      link: "https://customization-studio.mirrar.com/",
-      target: "_blank",
-    },
+    }
   ];
 
   return (
